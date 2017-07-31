@@ -89,6 +89,7 @@
 		88BCAC9B1F2F9B1F00293386 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
 		88BCACA91F2FBCC400293386 /* GraphsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphsViewController.swift; sourceTree = "<group>"; };
 		88BCACAB1F2FC4AE00293386 /* couger.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = couger.gif; path = ../../Downloads/couger.gif; sourceTree = "<group>"; };
+		88BCACAD1F2FC89100293386 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +114,7 @@
 			isa = PBXGroup;
 			children = (
 				88BCACAB1F2FC4AE00293386 /* couger.gif */,
+				88BCACAD1F2FC89100293386 /* readme.md */,
 				88BCAC6C1F2F9B1F00293386 /* cougher */,
 				88BCAC801F2F9B1F00293386 /* cougher WatchKit App */,
 				88BCAC8F1F2F9B1F00293386 /* cougher WatchKit Extension */,

@@ -1,0 +1,1 @@
+# cougher - track your coughs
